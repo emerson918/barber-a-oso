@@ -52,6 +52,8 @@ header {
   display: flex;
   align-items: center;
   background-image: url(./img/fondo.jpg);
+  background-attachment: fixed;
+  background-position: center;
   background-size: cover;
   color: #fff;
   margin-bottom: 50px;
