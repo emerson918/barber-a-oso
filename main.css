@@ -202,6 +202,10 @@ color: #fff;
 }
 
 @media screen and (max-width:750px){
+
+    .navbar{
+      justify-content: center;
+    }
     h1 {
         font-size: 35px;
     }
